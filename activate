@@ -1,0 +1,6 @@
+source .dbms/bin/activate
+export SOURCE=localhost
+export DATABASE=dvdrental
+export PORT=5432
+export USERNAME=admin
+export PASSWORD=password
